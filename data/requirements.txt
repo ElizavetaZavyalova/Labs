@@ -1,0 +1,5 @@
+label-studio
+pillow
+matplotlib
+opencv-python
+numpy
