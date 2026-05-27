@@ -18,11 +18,3 @@ label-studio start
 Перейти на 
 
 http://localhost:8080/
-
-Процесс разметки:
-
-![img_2.png](readme_img%2Fimg.png)
-
-Экспорт:
-
-![img_1.png](readme_img%2Fimg.png)
